@@ -1,0 +1,4 @@
+# Dijkstra
+Dijkstras algorithm
+Rework of Clément Mihailescu's pathfinding visualizer for learning purposes. Practiced editing JS, adding my own features, and uploading to Google's firebase hosting platform
+Currently refactoring code to scale on mobile devices
